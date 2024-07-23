@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/shubham18102000/ecomm/static/css/main.cac4d287.css",
+    "main.js": "/shubham18102000/ecomm/static/js/main.61c34044.js",
+    "static/js/453.2d40735f.chunk.js": "/shubham18102000/ecomm/static/js/453.2d40735f.chunk.js",
+    "static/media/study-lamp.jpg": "/shubham18102000/ecomm/static/media/study-lamp.b6908a142652cc40c046.jpg",
+    "static/media/luxury-pen.jpg": "/shubham18102000/ecomm/static/media/luxury-pen.bb3945412688944e94f5.jpg",
+    "static/media/sun-glasses.jpg": "/shubham18102000/ecomm/static/media/sun-glasses.a936231bf62c52f86bdb.jpg",
+    "static/media/laptop-bag.jpg": "/shubham18102000/ecomm/static/media/laptop-bag.7503e561377fc65db940.jpg",
+    "static/media/pen-holder.jpg": "/shubham18102000/ecomm/static/media/pen-holder.69a0f2dedf7ec67be1f7.jpg",
+    "static/media/headphone.jpg": "/shubham18102000/ecomm/static/media/headphone.261c09ba12a39a1c178a.jpg",
+    "static/media/bottle.jpg": "/shubham18102000/ecomm/static/media/bottle.8fe8d651597ed52c95ea.jpg",
+    "static/media/logo-company.jpg": "/shubham18102000/ecomm/static/media/logo-company.765859511403cdf3cd08.jpg",
+    "index.html": "/shubham18102000/ecomm/index.html",
+    "main.cac4d287.css.map": "/shubham18102000/ecomm/static/css/main.cac4d287.css.map",
+    "main.61c34044.js.map": "/shubham18102000/ecomm/static/js/main.61c34044.js.map",
+    "453.2d40735f.chunk.js.map": "/shubham18102000/ecomm/static/js/453.2d40735f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cac4d287.css",
+    "static/js/main.61c34044.js"
+  ]
+}
