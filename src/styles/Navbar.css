@@ -1,0 +1,78 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+  background-color: white;
+  font-family: Arial, sans-serif;
+}
+
+.left-menu {
+  display: flex;
+  align-items: center;
+}
+
+.company-logo .logo {
+  width: 100px;
+  height: auto;
+}
+
+.nav-links {
+  display: flex;
+  margin-left: 20px;
+}
+
+.nav-link {
+  margin: 0 10px;
+  color: black;
+  text-decoration: none;
+  font-size: 16px;
+}
+
+.nav-link:hover {
+  text-decoration: underline;
+}
+
+.right-menu {
+  display: flex;
+  align-items: center;
+}
+
+.flag-icon, .search-icon, .shopping-icon {
+  margin: 0 10px;
+  font-size: 18px;
+  color: black;
+}
+
+.flag-icon:hover, .search-icon:hover, .shopping-icon:hover {
+  color: #333;
+}
+
+.right-menu span {
+  margin: 0 5px;
+}
+
+.searching {
+  width: 600px;
+  margin-left: 50px;
+  border-radius: 10px;
+}
+
+/* User Info */
+.user-info {
+  display: flex;
+  align-items: center;
+  margin-right: 10px;
+}
+
+.user-photo {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  margin-right: 10px;
+}
+
+/* Login */
+.loginhead {
+  margin-top: -70px;
+}
